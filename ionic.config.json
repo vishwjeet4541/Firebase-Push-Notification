@@ -1,0 +1,7 @@
+{
+  "name": "IonicFirebasePushNotifications",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
